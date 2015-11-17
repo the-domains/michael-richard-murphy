@@ -1,0 +1,23 @@
+name: Michael Richard Murphy
+favicon: null
+layout_spectrum: 0.8616843412164599
+typography_spectrum: 0.8963425466790795
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.6033818696159869
+  lightness: 0.375388229964301
+  saturation: 0.287984783295542
+  rhythmicContrast: 0.2607582781929523
+purpose: []
