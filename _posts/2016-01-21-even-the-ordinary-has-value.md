@@ -16,7 +16,7 @@ keywords:
   - resolution-themed
   - advice
 description: "This time of year there's a lot of resolution-themed updates and articles flying around. And I'm always all for it. One I shared recently was advice for 20-somethings that ranged from backing up your hard drive to becoming more politically informed. I shared it with my network with a note that those tips aren't just for 20-somethings."
-datePublished: '2016-01-21T02:52:17.050Z'
+datePublished: '2016-01-21T02:52:17.071Z'
 dateModified: '2016-01-21T02:52:11.724Z'
 author:
   - name: Michael R. Murphy
