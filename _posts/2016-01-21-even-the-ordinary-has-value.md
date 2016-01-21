@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.michaelrichardmurphy.com/even-the-ordinary-has-value/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - resolution-themed
   - advice
 description: "This time of year there's a lot of resolution-themed updates and articles flying around. And I'm always all for it. One I shared recently was advice for 20-somethings that ranged from backing up your hard drive to becoming more politically informed. I shared it with my network with a note that those tips aren't just for 20-somethings."
-datePublished: '2016-01-21T02:47:11.203Z'
-dateModified: '2016-01-21T02:46:49.066Z'
+datePublished: '2016-01-21T02:52:16.985Z'
+dateModified: '2016-01-21T02:52:11.724Z'
 author:
   - name: Michael R. Murphy
     url: 'http://www.michaelrichardmurphy.com/author/mmurphy/'
@@ -26,14 +25,15 @@ author:
 related: []
 app_links: []
 title: Even The Ordinary Has Value
+sourcePath: _posts/2016-01-21-even-the-ordinary-has-value.md
+published: true
 authors: []
 publisher:
   name: Michael Richard Murphy
   domain: www.michaelrichardmurphy.com
   url: 'http://www.michaelrichardmurphy.com'
   favicon: 'http://cdn.michaelrichardmurphy.com/wp-content/themes/balance/images/favicon.ico'
-sourcePath: _posts/2016-01-21-even-the-ordinary-has-value.md
-published: true
+url: even-the-ordinary-has-value/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
